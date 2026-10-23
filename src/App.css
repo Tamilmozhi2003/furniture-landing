@@ -1,0 +1,8 @@
+/* App level utility styles */
+.app-container {
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+  background-color: var(--color-bg);
+  overflow-x: hidden;
+}
